@@ -1,1 +1,1 @@
-# histogram-equalisation-CLAHE
+# Histogram Equalisation & CLAHE for image enhancement
